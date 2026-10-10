@@ -1,0 +1,10 @@
+test_flow (test_app.Integration.test_flow) ... ok
+test_origin_normalization (test_app.Integration.test_origin_normalization) ... ok
+test_password_and_totp (test_app.Integration.test_password_and_totp) ... ok
+test_reject_system_directory (test_volume.VolumeTests.test_reject_system_directory) ... ok
+test_volume_preparation_preserves_database (test_volume.VolumeTests.test_volume_preparation_preserves_database) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.815s
+
+OK
